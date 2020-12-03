@@ -1,0 +1,42 @@
+body{
+    padding: 50px;
+    
+}
+p{
+    text-decoration: underline;
+    font-weight: bolder;
+    background-color: antiquewhite;
+}
+img{
+    margin: auto;
+    display: block;
+}
+table{
+    width: 900px;
+    margin: auto;
+}
+
+#agua{
+    width: 965px;
+    margin: auto;
+}
+#aerosol{
+     width: 965px;
+    margin: auto;
+}
+#antico{
+     width: 965px;
+    margin: auto;
+}
+#gasolina{
+     width: 965px;
+    margin: auto;
+}
+#sellador{
+     width: 965px;
+    margin: auto;
+}
+#tintes{
+     width: 965px;
+    margin: auto;
+}
